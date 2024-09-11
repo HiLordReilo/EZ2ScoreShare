@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "EZ2ScoreShare (test:root)": {
+      "commandName": "Project",
+      "commandLineArgs": "localhost root nnrgc2024neverosu! ez2ac_ss"
+    },
+    "EZ2ScoreShare (test:ez2ac_player)": {
+      "commandName": "Project",
+      "commandLineArgs": "localhost ez2ac_player finalex ez2ac_ss",
+      "workingDirectory": "Q:\\EZ2AC FINAL EX Omnimix Ver.1.60\\EZ2AC FINAL EX Omnimix\\net6.0"
+    }
+  }
+}
