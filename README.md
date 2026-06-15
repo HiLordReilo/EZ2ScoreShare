@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> # ⚠️ This repository is archived.
+> This project was just a one-off thing, crudely put together overnight. You can still build this and use it, if you really want to, but I have no plans of maintaining it.
+
 # EZ2ScoreShare
 Share scores between EZ2AC machines as if there is online ranking once again!
 
